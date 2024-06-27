@@ -20,7 +20,7 @@ Bu iki adımı izleyerek veya direk __main__.exe dosyasını çalıştırarak uy
 1. Bu projeyi klonlayın:
     ```sh
     git clone https://github.com/umutcanekinci/euclidean-distance.git
-    cd Breadcrumbseuclidean-distance
+    cd euclidean-distance
     ```  
 
 2. Oyunu çalıştırmak için şu komutu kullanın:
@@ -37,7 +37,7 @@ Katkıda bulunmak isterseniz, lütfen şu adımları izleyin:
 2. Fork'ladığınız depoyu yerel makinenize klonlayın:
 ```sh
 git clone https://github.com/umutcanekinci/euclidean-distance.git
-cd Breadcrumbseuclidean-distance
+cd euclidean-distance
 ```
 
 3. Yeni bir dal oluşturun (örn: feature/yenilik):
