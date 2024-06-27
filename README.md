@@ -5,7 +5,7 @@ Bu başlangıç düzeyi bir mesafe hesaolama scriptidir. CyberStart bootcampi i�
 
 ## Uygulamadan Görseller
 
-![alt text](https://github.com/umutcanekinci/Breadcrumbseuclidean-distance/blob/main/sample.png?raw=true)
+![alt text](https://github.com/umutcanekinci/euclidean-distance/blob/main/sample.png?raw=true)
 
 ## Başlangıç
 
@@ -19,7 +19,7 @@ Bu iki adımı izleyerek veya direk __main__.exe dosyasını çalıştırarak uy
 
 1. Bu projeyi klonlayın:
     ```sh
-    git clone https://github.com/umutcanekinci/Breadcrumbseuclidean-distance.git
+    git clone https://github.com/umutcanekinci/euclidean-distance.git
     cd Breadcrumbseuclidean-distance
     ```  
 
@@ -36,7 +36,7 @@ Katkıda bulunmak isterseniz, lütfen şu adımları izleyin:
 
 2. Fork'ladığınız depoyu yerel makinenize klonlayın:
 ```sh
-git clone https://github.com/umutcanekinci/Breadcrumbseuclidean-distance.git
+git clone https://github.com/umutcanekinci/euclidean-distance.git
 cd Breadcrumbseuclidean-distance
 ```
 
