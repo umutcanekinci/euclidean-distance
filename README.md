@@ -1,6 +1,6 @@
 # Euclidean Distance
 
-Bu başlangıç düzeyi bir mesafe hesaolama scriptidir. CyberStart bootcampi için yapılmıştır.
+Bu başlangıç düzeyi bir mesafe hesaplama scriptidir. CyberStart Bootcamp'i için yazılmıştır.
 
 
 ## Uygulamadan Görseller
